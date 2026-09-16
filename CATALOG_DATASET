@@ -2,7 +2,7 @@
   "id": "paypilot-wallet",
   "name": "PayPilot Wallet",
   "developer": "PILOT INNOVATION SP. Z.O.O.",
-  "description": "Криптокошелёк и платёжное приложение для управления криптоактивами и EUR, обмена активов и использования PayPilot Card.",
+  "description": "Криптокошелёк и платёжное приложение для управления криптоактивами и EUR, обмена активов, переводов и использования PayPilot Card.",
   "category": "Финансы",
   "officialUrl": "https://www.paypilot.org/",
   "appStoreUrl": "https://apps.apple.com/de/app/paypilot-wallet/id6751874532",
@@ -11,7 +11,8 @@
     "checkedAt": "2026-09-16",
     "sourceType": "app_store",
     "sourceUrl": "https://apps.apple.com/de/app/paypilot-wallet/id6751874532",
-    "region": "DE"
+    "storefront": "DE",
+    "russiaStatus": "unknown"
   },
   "recovery": {
     "supported": false,
