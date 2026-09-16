@@ -1,0 +1,26 @@
+{
+  "id": "vk",
+  "name": "ВКонтакте",
+  "developer": "VK",
+  "description": "Общение, музыка, видео и сообщества.",
+  "category": "Социальные",
+
+  "iconUrl": "https://...",
+  "officialUrl": "https://vk.com/",
+  "appStoreUrl": null,
+
+  "rating": 4.6,
+
+  "availability": {
+    "status": "official_web",
+    "checkedAt": "2026-09-16",
+    "sourceType": "official",
+    "sourceUrl": "https://vk.com/",
+    "note": "Официальный веб-доступ"
+  },
+
+  "recovery": {
+    "supported": false,
+    "status": "not_implemented"
+  }
+}
